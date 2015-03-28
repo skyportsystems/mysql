@@ -1,0 +1,4 @@
+origin	git@github.com:skyportsystems/mysql (fetch)
+origin	git@github.com:skyportsystems/mysql (push)
+upstream	https://github.com/go-sql-driver/mysql.git (fetch)
+upstream	https://github.com/go-sql-driver/mysql.git (push)
